@@ -1,6 +1,6 @@
 # Pluralsight Dataset Prokect
 
-In this project, I focus on predict the churn probablity and 
+In this project, I focus on predict the churn and probability rate of the subscriber continue on their service
 
 ### Table of Contents
 
